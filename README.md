@@ -1,3 +1,3 @@
 # react_todo_app
 
-- [DEMO LINK]
+- [DEMO LINK](https://veronika-donets.github.io/react_todo-app/index.html#/)
